@@ -4,6 +4,7 @@ import { Button } from "@/components/ui/button"
 import bgImage from './bg.jpg'
 import sideImage from './Nuts.jpg'
 import sideImage1 from './Jollof Rice and Chicken.jpg'
+import sideImage2 from './him.jpg'
 import {
   Card,
   CardAction,
@@ -176,6 +177,7 @@ function App() {
       <section className="mx-auto w-full max-w-6xl px-4 py-16 md:py-24">
         <div className="text-center">
           <h2 className="mb-4 text-3xl font-bold text-brown1 md:text-4xl">Why Choose Us</h2>
+          <img src={sideImage2} alt="Joy Nuts" className="w-full h-48 md:h-64 lg:h-80 object-cover rounded-3xl" />
           <p className="mb-8 text-base text-gray-700 md:text-lg">
             At Dabwins, we believe in delivering excellence with every meal. Our commitment to quality starts with handpicked ingredients prepared fresh daily. We understand that your time is valuable, which is why we offer fast and reliable delivery to get your order to your door hot and fresh. Most importantly, every dish is crafted with passion and care by our dedicated team of culinary experts who pour their love into creating unforgettable dining experiences.
           </p>
