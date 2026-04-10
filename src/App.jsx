@@ -243,6 +243,10 @@ function App() {
 
         </div>
       </section>
+
+      <footer className="bg-red-600 text-center py-4 text-sm" style={{ color: "#FFFDD0" }}>
+      Dabwins Cuisine &copy; 2026
+    </footer>
     </div>
   )
 }
