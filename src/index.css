@@ -128,3 +128,7 @@
     @apply font-sans;
     }
 }
+@theme {
+    --color-cream1: #FFF8F0;
+    --color-brown1: #de0a26;
+}
