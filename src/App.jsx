@@ -106,7 +106,7 @@ function App() {
             </div>
 
             <Button className="cursor-pointer bg-brown1 text-cream1 transition-transform duration-200 hover:-translate-y-0.5 hover:shadow-lg">
-              Order Now
+              <a href="https://wa.me/+2347037887602">Order Now</a>
             </Button>
           </div>
 
